@@ -1,0 +1,26 @@
+node_modules
+.nuxt
+.output
+.vercel
+.env
+.env.*
+!.env.example
+
+# Private assets, credentials and local state
+private-assets/
+uploads/
+backups/
+coverage/
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite*
+*.db
+.DS_Store
+.idea/
+.vscode/
+.npmrc
+.netrc
+.vercel/
