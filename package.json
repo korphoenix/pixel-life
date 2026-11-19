@@ -16,7 +16,7 @@
     "@supabase/supabase-js": "^2.119.0",
     "nuxt": "^4.6.4",
     "vue": "^3.5.0",
-    "vue-router": "^5.4.0"
+    "vue-router": "^5.5.1"
   },
   "devDependencies": {
     "@electric-sql/pglite": "^0.5.16",
